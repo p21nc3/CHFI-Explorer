@@ -29,9 +29,9 @@
 
 * Interpret, document, and present the evidence such that it is admissible during prosecution.
 
-*Estimate the potential impact of malicious activity on the victim and assess the intent of the perpetrator.
+* Estimate the potential impact of malicious activity on the victim and assess the intent of the perpetrator.
 
-*Find vulnerabilities and security loopholes that help attackers.
+* Find vulnerabilities and security loopholes that help attackers.
 
 * Understand the techniques and methods used by attackers to avert prosecution and overcome them.
 
@@ -55,7 +55,7 @@
 
 * Ensure the overall integrity and the continued existence of an organization’s computer system and network infrastructure.
 
-*Help the organization capture important information if their computer systems or networks are compromised. Forensic evidence also helps prosecute the perpetrator of a cybercrime, if caught.
+* Help the organization capture important information if their computer systems or networks are compromised. Forensic evidence also helps prosecute the perpetrator of a cybercrime, if caught.
 
 * Extract, process, and interpret the actual evidence so that it proves the attacker’s actions and their guilt or innocence in court.
 
