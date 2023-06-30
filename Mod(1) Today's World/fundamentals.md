@@ -59,8 +59,8 @@
 
 * Extract, process, and interpret the actual evidence so that it proves the attacker’s actions and their guilt or innocence in court.
 
-*Efficiently track down perpetrators/terrorists from different parts of the world. Terrorists who use the Internet as a communication medium can be tracked down, and their plans can be discovered. IP addresses are vital to finding the geographical location of the terrorists.
+* Efficiently track down perpetrators/terrorists from different parts of the world. Terrorists who use the Internet as a communication medium can be tracked down, and their plans can be discovered. IP addresses are vital to finding the geographical location of the terrorists.
 
-*Save the organization’s money and valuable time. Many managers allocate a large portion of their IT budget for computer and network security.
+* Save the organization’s money and valuable time. Many managers allocate a large portion of their IT budget for computer and network security.
 
-*Track complex cases such as email spamming and other nefarious activities, etc. 
+* Track complex cases such as email spamming and other nefarious activities, etc. 
