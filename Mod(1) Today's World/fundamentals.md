@@ -51,7 +51,7 @@
 
 * it became a necessity for orgs to hire computer forensics employee.
 
-# ROLE OF A INVESTIGATOR 
+# ROLE OF AN INVESTIGATOR 
 
 * Ensure the overall integrity and the continued existence of an organization’s computer system and network infrastructure.
 
