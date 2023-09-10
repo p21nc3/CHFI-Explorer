@@ -21,7 +21,7 @@
 
 * process of finding admissible evidence related to a digital crime to find the perpetrators and initiate legal action against them.
 
-# OBJECTIVES
+# bojectives
 
 * Identify, gather, and preserve the evidence of a cybercrime.
 
